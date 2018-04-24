@@ -17,6 +17,9 @@ Drag your image to me, I will upload it to SM.MS automatically and backup info t
 
 - Answer: You can place your images in one folder and drag the folder into the app. All the urls of images will be copide into your clipboard, one url for one line.
 
+3.  The application "Upload Images to SM.MS" can't be opened?
+
+- Answer: Please open "Terminal.app" and run this command `sudo spctl --master-disable` then input your password. The reason is that the app hadn't been signed by my apple develop id. I will signed the app later.
 
 ## LICENSE
 
