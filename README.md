@@ -8,10 +8,11 @@ Drag your image to me, I will upload it to SM.MS automatically and backup info t
 
 ## Todo List
 
-- [x] Drag images and backup to iCloud
-- [ ] Drag images and backup to Dropbox
-- [ ] Upload image from copyboard and backup to iCloud
-- [ ] Upload image from copyboard and backup to Dropbox
+- [x] 🎉 Drag images and backup to iCloud
+- [ ] 🤔 Drag images and backup to Dropbox
+- [ ] 🤔 Upload image from copyboard and backup to iCloud
+- [ ] 🤔 Upload image from copyboard and backup to Dropbox
+- [ ] 🤔 Design icon
 
 ## Questions & Answer
 
