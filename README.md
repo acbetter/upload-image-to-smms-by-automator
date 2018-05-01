@@ -6,6 +6,13 @@ Drag your image to me, I will upload it to SM.MS automatically and backup info t
 
 ![Just Drag it!](https://i.loli.net/2018/04/23/5addef9892562.gif)
 
+## Todo List
+
+- [x] Drag images and backup to iCloud
+- [ ] Drag images and backup to Dropbox
+- [ ] Upload image from copyboard and backup to iCloud
+- [ ] Upload image from copyboard and backup to Dropbox
+
 ## Questions & Answer
 
 1.  When I select many images and drag them into the app, which image's url will be copied into clipboard? 
