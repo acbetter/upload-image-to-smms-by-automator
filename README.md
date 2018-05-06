@@ -10,6 +10,7 @@ Drag your image to me, I will upload it to SM.MS automatically and backup info t
 
 - [x] 🎉 Drag images and backup to iCloud
 - [ ] 🤔 Drag images and backup to Dropbox
+- [ ] 🤔 Drag images to remove automatic from SM.MS and Local (iCloud or Dropbox)
 - [ ] 🤔 Upload image from copyboard and backup to iCloud
 - [ ] 🤔 Upload image from copyboard and backup to Dropbox
 - [ ] 🤔 Design icon
