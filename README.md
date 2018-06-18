@@ -10,7 +10,7 @@ Drag your image to me, I will upload it to SM.MS automatically and backup info t
 
 **!! IMPORTANT !!**
 
-The [PicGo](https://github.com/Molunerfinn/PicGo) is so good! PicGo 真好用！
+**The [PicGo](https://github.com/Molunerfinn/PicGo) is so good! PicGo 真好用！**
 
 ~~**This repo will be rewrited by Qt GUI. So please look forward to my new uploading app. 本项目已停止维护，新的上传图床软件将带有界面，就像 iPic 那样，敬请期待！**~~
 
